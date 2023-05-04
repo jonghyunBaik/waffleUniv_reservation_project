@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "352696704188",
+    "project_id": "wafflereservation",
+    "storage_bucket": "wafflereservation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352696704188:android:e372847a1ddcaf753684b9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352696704188-0k18jsjb62fmdj18ul7b9e6391j39s6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiHVWyMtnMgpup4hmCmTesv_8_OMf7n0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352696704188-0k18jsjb62fmdj18ul7b9e6391j39s6f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "352696704188-kre9g0247uqfhuim189cvghaqj7r3k5e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApplication1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
